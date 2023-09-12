@@ -1,0 +1,3 @@
+#define ENCODERS_PAD_A { B2, A13, A15 }
+#define ENCODERS_PAD_B { B1, A14, B3 }
+#define ENCODER_RESOLUTION 4
